@@ -1,0 +1,2 @@
+# Sintaxis-Basica
+Oinarrizko Sintaxisa
